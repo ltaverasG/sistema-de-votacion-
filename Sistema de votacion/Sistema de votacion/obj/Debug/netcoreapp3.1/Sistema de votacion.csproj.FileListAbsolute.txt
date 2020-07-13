@@ -1,0 +1,13 @@
+C:\Users\Joseluis\Documents\C#\Segundo parcial Sistema de votos\Sistema de votacion\Sistema de votacion\bin\Debug\netcoreapp3.1\Sistema de votacion.exe
+C:\Users\Joseluis\Documents\C#\Segundo parcial Sistema de votos\Sistema de votacion\Sistema de votacion\bin\Debug\netcoreapp3.1\Sistema de votacion.deps.json
+C:\Users\Joseluis\Documents\C#\Segundo parcial Sistema de votos\Sistema de votacion\Sistema de votacion\bin\Debug\netcoreapp3.1\Sistema de votacion.runtimeconfig.json
+C:\Users\Joseluis\Documents\C#\Segundo parcial Sistema de votos\Sistema de votacion\Sistema de votacion\bin\Debug\netcoreapp3.1\Sistema de votacion.runtimeconfig.dev.json
+C:\Users\Joseluis\Documents\C#\Segundo parcial Sistema de votos\Sistema de votacion\Sistema de votacion\bin\Debug\netcoreapp3.1\Sistema de votacion.dll
+C:\Users\Joseluis\Documents\C#\Segundo parcial Sistema de votos\Sistema de votacion\Sistema de votacion\bin\Debug\netcoreapp3.1\Sistema de votacion.pdb
+C:\Users\Joseluis\Documents\C#\Segundo parcial Sistema de votos\Sistema de votacion\Sistema de votacion\obj\Debug\netcoreapp3.1\Sistema de votacion.csprojAssemblyReference.cache
+C:\Users\Joseluis\Documents\C#\Segundo parcial Sistema de votos\Sistema de votacion\Sistema de votacion\obj\Debug\netcoreapp3.1\Sistema de votacion.csproj.CoreCompileInputs.cache
+C:\Users\Joseluis\Documents\C#\Segundo parcial Sistema de votos\Sistema de votacion\Sistema de votacion\obj\Debug\netcoreapp3.1\Sistema de votacion.AssemblyInfoInputs.cache
+C:\Users\Joseluis\Documents\C#\Segundo parcial Sistema de votos\Sistema de votacion\Sistema de votacion\obj\Debug\netcoreapp3.1\Sistema de votacion.AssemblyInfo.cs
+C:\Users\Joseluis\Documents\C#\Segundo parcial Sistema de votos\Sistema de votacion\Sistema de votacion\obj\Debug\netcoreapp3.1\Sistema de votacion.dll
+C:\Users\Joseluis\Documents\C#\Segundo parcial Sistema de votos\Sistema de votacion\Sistema de votacion\obj\Debug\netcoreapp3.1\Sistema de votacion.pdb
+C:\Users\Joseluis\Documents\C#\Segundo parcial Sistema de votos\Sistema de votacion\Sistema de votacion\obj\Debug\netcoreapp3.1\Sistema de votacion.genruntimeconfig.cache
